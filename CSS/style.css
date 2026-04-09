@@ -1,0 +1,80 @@
+.logo {
+  padding: 15px 20px;
+  background-color: yellow;
+  font-weight: bold;
+  
+
+
+}
+
+
+body {
+    background-color: #E9ECEF;
+}
+
+
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+}
+
+.brand-highlight {
+    background-color: #f7d046;
+    padding: 5px 10px;
+}
+
+/* Alphabet section */
+.alphabet a {
+    text-decoration: none;
+    color: #555;
+    margin: 0 5px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+/* Category buttons */
+.categories span {
+    background: lightgrey;
+    padding: 5px 10px;
+    margin: 3px;
+    border-radius: 5px;
+    font-size: 12px;
+    display: inline-block;
+}
+
+/* Card */
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+
+/* Search box */
+.search-box {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
